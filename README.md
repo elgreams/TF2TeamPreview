@@ -25,7 +25,7 @@ A minimal TF2 HUD mod that adds RED/BLU team preview buttons to the loadout scre
 ### Step 3: Install
 
 1. Open the extracted folder
-2. Copy the `TfPreview` folder
+2. Copy the `TF2TeamPreveiw` folder
 3. Navigate to your TF2 custom folder:
    - **Linux:** `~/.steam/steam/steamapps/common/Team Fortress 2/tf/custom/`
    - **Windows:** `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom\`
