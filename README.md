@@ -20,7 +20,7 @@ A minimal TF2 HUD mod that adds RED/BLU team preview buttons to the loadout scre
 
 1. Open your Downloads folder
 2. Right-click the downloaded ZIP file
-3. Select **Extract Here** or **Extract All**
+3. Select **Extract Here**
 
 ### Step 3: Install
 
